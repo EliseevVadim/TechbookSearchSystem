@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="text-center w-100">
+    <h1 class="site-title">Techbook</h1>
+    <h6 class="site-subtitle">The future is near!</h6>
+    @using (Html.BeginForm("Search", "Home", FormMethod.Get, new { @class = "form-wrapper d-flex gap-2" }))
+    {
+        <input type="text" id="search" name="query" placeholder="Найдется всё..." required>
+        <input type="submit" value="Искать" id="submit">
+    }
+</div>

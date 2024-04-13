@@ -1,0 +1,6 @@
+https://3dnews.ru/software-news/rss/
+https://elementy.ru/rss/news/it
+https://news.rambler.ru/rss/tech/
+https://www.cnews.ru/inc/rss/rss_open.xml
+https://lenta.ru/rss/news/science/
+https://naked-science.ru/article/category/hi-tech/feed
